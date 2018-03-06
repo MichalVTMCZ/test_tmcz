@@ -1,0 +1,6 @@
+class Goro extends Pes
+{
+	public Goro(String jmeno)
+	{
+	}
+}
