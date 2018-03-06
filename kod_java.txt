@@ -2,5 +2,6 @@ class Goro extends Pes
 {
 	public Goro(String jmeno)
 	{
+		this.name = jmeno;
 	}
 }
